@@ -64,10 +64,11 @@ The interactive dashboard includes:
 - Customer contribution insights  
 - Risk-based conditional formatting
 
-  ## 📄 Dashboard (PDF Version)
+  ## 📥 Power BI Dashboard
 
-[View Dashboard (Interactive PDF)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sreya200402/Sales_Reconciliation_Revenue_Validation/main/Dashboard/dashboard.pdf)
+The complete Power BI dashboard is available here:
 
+[Download Power BI Dashboard](DASHBOARD/dashboard.pbix)
 ---
 
 ## 🔍 Key Insights
