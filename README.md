@@ -25,27 +25,27 @@ This project addresses the challenge of identifying and analyzing revenue mismat
 # 📊 Dashboard Pages
 
 ## 🏠 Home
-![Home](Dashboard/pictures/Home.png)
+![Home](DASHBOARD/Screenshots/Home.png)
 
 ---
 
 ## 📊 Overview
-![Overview](Dashboard/pictures/Overview.png)
+![Overview]DASHBOARD/Screenshots/Overview.png)
 
 ---
 
 ## 🔍 Mismatch Analysis
-![Mismatch Analysis](Dashboard/pictures/Mismatch%20analysis.png)
+![Mismatch Analysis](DASHBOARD/Screenshots/Mismatch%20analysis.png)
 
 ---
 
 ## 🌍 Business Insights
-![Business Insights](Dashboard/pictures/Business%20insight.png)
+![Business Insights](DASHBOARD/Screenshots/Business%20insight.png)
 
 ---
 
 ## 🚨 Critical Issues
-![Critical Issues](Dashboard/pictures/Critical%20Isues.png)
+![Critical Issues](DASHBOARD/Screenshots/Critical%20Isues.png)
 
 ---
 
